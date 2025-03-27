@@ -9,7 +9,6 @@ Key elements:
 - Unity terrain tools used to sculpt islands
 - Scene transitions based on player movement (falling into ocean triggers event)
 
-Built using Unity 2022.3 and XR Interaction Toolkit.
+Built using Unity 6 and XR Interaction Toolkit.
 
 📘 [View full documentation and development notes](https://lxl1182.myportfolio.com/cim423-building-virtual-worlds-transitions)
-
