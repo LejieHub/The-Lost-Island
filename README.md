@@ -1,13 +1,15 @@
 # 🏝️ The Lost Island - Unity VR Demo - CIM 423 Building Virtual Worlds
 
-A Unity VR experience built with low-poly assets from the Unity Asset Store. Inspired by Minecraft and Unturned, this dramatic little island adventure mixes exploration, sound feedback, and simple text-based choices.
+A Unity VR experience inspired by Minecraft and Unturned, blending exploration, sound feedback, and simple text-based choices in a low-poly world.
 
-Players explore a whimsical world shaped by coconuts, treasure chests, skulls, and more—stitched together to form a strange but semi-logical narrative.
+The story begins on a pirate ship caught in a storm, throwing the player overboard and onto a mysterious island. Through interactions like talking to a goblin on Mushroom Island, collecting skulls, and changing the skybox inside a tent, players unravel a quirky narrative. The experience ends in a credit scene after unlocking the final area.
 
 Key elements:
-- Low-poly style for cohesive look
-- Unity terrain tools used to sculpt islands
-- Scene transitions based on player movement (falling into ocean triggers event)
+- Unity terrain tools used to sculpt islands  
+- Scene transitions based on player movement (falling into ocean triggers event)  
+- Custom UI elements for title and end scene  
+- Interactive objects with hover/select/activate states  
+- Audio feedback and NPC dialogue to enhance immersion  
 
 Built using Unity 6 and XR Interaction Toolkit.
 
