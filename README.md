@@ -13,4 +13,4 @@ Key elements:
 
 Built using Unity 6 and XR Interaction Toolkit.
 
-📘 [View full documentation and development notes](https://lxl1182.myportfolio.com/cim423-building-virtual-worlds-transitions)
+📘 [View full documentation and development notes](https://lxl1182.myportfolio.com/cim423-building-virtual-worlds-the-lost-island)
